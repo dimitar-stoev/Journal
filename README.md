@@ -1,8 +1,6 @@
 # Journal
 
-A minimal, typography-heavy newsletter theme for [Ghost](https://github.com/TryGhost/Ghost).
-
-**Demo: https://journal.ghost.io**
+A minimal, typography-heavy newsletter theme for [Ghost](https://github.com/TryGhost/Ghost) in Bulgarian!
 
 # Instructions
 
